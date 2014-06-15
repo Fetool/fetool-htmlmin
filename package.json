@@ -1,0 +1,23 @@
+{
+  "name": "fetool-htmlmin",
+  "version": "0.0.1",
+  "description": "minify html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Fetool/fetool-htmlmin.git"
+  },
+  "keywords": [
+    "minify",
+    "html"
+  ],
+  "author": "weilin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fetool/fetool-htmlmin/issues"
+  },
+  "homepage": "https://github.com/Fetool/fetool-htmlmin"
+}
